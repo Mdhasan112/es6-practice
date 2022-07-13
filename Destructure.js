@@ -9,7 +9,7 @@ console.log(gfName, age, phone);
 console.log(gfName);
 console.log(gfName);
 
-const friendsName = ["nayem", "rofiq", "raju", "basar"]
+const friendsName = ["nayem", "rofiq", "raju", "basar", "rohim"]
 
 const [firstFriend, second, ...restFriend] = friendsName;
 console.log(firstFriend,  second, restFriend);
